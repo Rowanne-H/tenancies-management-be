@@ -1,5 +1,43 @@
 {
   "tenants" : [
-    
+    {
+      "ref": "1123john",
+      "property": "1/123 Sydney St Sydney NSW 2000",
+      "fname": "John",
+      "lname": "Doe",
+      "mobile": "0401000000",
+      "email": "john@gmail.com",
+      "term": "12",
+      "sdate": "2024-04-22",
+      "edate": "2025-04-21",
+      "note": "One person ",
+      "id": 1
+    },
+    {
+      "ref": "2123maria",
+      "property": "2/123 Sydney St Sydney NSW 2000",
+      "fname": "Maria",
+      "lname": "Douglas",
+      "mobile": "0402000000",
+      "email": "maria@gmail.com",
+      "term": "6",
+      "sdate": "2024-04-03",
+      "edate": "2024-10-02",
+      "note": "One person",
+      "id": 2
+    },
+    {
+      "ref": "3123susan",
+      "property": "3/123 Sydney St Sydney NSW 2000",
+      "fname": "Susan",
+      "lname": "Smith",
+      "mobile": "0403000000",
+      "email": "susan@hotmail.com",
+      "term": "24",
+      "sdate": "2024-01-01",
+      "edate": "2025-12-31",
+      "note": "Two people",
+      "id": 3
+    }
   ]
 }
