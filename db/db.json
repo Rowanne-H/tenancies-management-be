@@ -11,6 +11,7 @@
       "sdate": "2024-04-22",
       "edate": "2025-04-21",
       "note": "One person ",
+      "status": "active",
       "id": 1
     },
     {
@@ -24,6 +25,7 @@
       "sdate": "2024-04-03",
       "edate": "2024-10-02",
       "note": "One person",
+      "status": "active",
       "id": 2
     },
     {
@@ -37,7 +39,22 @@
       "sdate": "2024-01-01",
       "edate": "2025-12-31",
       "note": "Two people",
+      "status": "active",
       "id": 3
+    }
+    {
+      "ref": "3123kitty",
+      "property": "4/123 Sydney St Sydney NSW 2000",
+      "fname": "Kitty",
+      "lname": "Williams",
+      "mobile": "0404000000",
+      "email": "kitty@hotmail.com",
+      "term": "6",
+      "sdate": "2022-01-01",
+      "edate": "2022-06-31",
+      "note": "One person",
+      "status": "inactive",
+      "id": 4
     }
   ]
 }
