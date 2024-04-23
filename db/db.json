@@ -11,7 +11,7 @@
       "sdate": "2024-04-22",
       "edate": "2025-04-21",
       "note": "One person ",
-      "status": "active",
+      "status": "Active",
       "id": 1
     },
     {
@@ -25,7 +25,7 @@
       "sdate": "2024-04-03",
       "edate": "2024-10-02",
       "note": "One person",
-      "status": "active",
+      "status": "Active",
       "id": 2
     },
     {
@@ -39,7 +39,7 @@
       "sdate": "2024-01-01",
       "edate": "2025-12-31",
       "note": "Two people",
-      "status": "active",
+      "status": "Active",
       "id": 3
     },
     {
@@ -53,7 +53,7 @@
       "sdate": "2022-01-01",
       "edate": "2022-06-31",
       "note": "One person",
-      "status": "inactive",
+      "status": "Inactive",
       "id": 4
     }
   ]
